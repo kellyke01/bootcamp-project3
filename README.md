@@ -7,7 +7,7 @@ Rufin Perez
 Kyndall Kelly
 Kristina Swanson
 
-**THEME:**
+**THEME**
 
 **Central Question: Where are the voters?**:
 
@@ -18,6 +18,8 @@ With the next presidential election coming up we came upon some inspiration. We 
 Number of registered voters in each county of North Carolina
 Percentage of registered voters in each county who participated 
 Breakdown of the major political parties in the 2020 election
+
+**CODING APPROACH and DATA WRANGLING TECHNIQUES**
 
 **Dataset/API Resources**:
 

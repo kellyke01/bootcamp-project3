@@ -26,13 +26,15 @@ With the next presidential election coming up we came upon some inspiration. We 
 https://www.kaggle.com/code/roydatascience/us-election-results-2020/input?select=president_county.csv
 ^^ president_county_candidate.csv
 
-https://www.kaggle.com/datasets/unanimad/us-election-2020 [Need the hyper link to the CSV file]
+https://www.kaggle.com/datasets/unanimad/us-election-2020
+
+Our datasets included at least 100 records.
 
 **Ethical Consideration**: 
 
 We reviewed the datasets to ensure there were no personal identifiable information of voters.
 
-**POSTGRES**:
+**USE OF POSTGRES**:
 
 Our team used Postgres to create the tables. We then applied SQL code to perform:
 - CREATE TABLES (for resulting tables from the original two tables from above)
@@ -47,6 +49,9 @@ Base form of the State of North Carolina with all 100 counties. Our final design
 - Blue/Red Counties
 - Total Registered Voters
 - Total Percentage of Registered Voters that Voted
+
+Our visualization map included the following user-driven interactions:
+- Textboxes with HTML for 
   
 **Seaborn Python Library**:
 

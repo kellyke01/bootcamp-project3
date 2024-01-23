@@ -51,11 +51,12 @@ Base form of the State of North Carolina with all 100 counties. Our final design
 - Total Percentage of Registered Voters that Voted
 
 Our visualization map included the following user-driven interactions:
-- Textboxes with HTML for 
+- Textboxes with text formatting in HTML for County, Candidate, Party, Pecentage of Registered Voters
+- Control Toggle Box for the above three views
   
 **Seaborn Python Library**:
 
-This Python Library was one not convered during class. We used it for the enhanced color palette, specifically for the color-blind palette, since we wanted the data in the bar chart to be usable by all. 
+This Python Library was one not convered during class. Using Jupyter Notebook, we used Seaborn for the enhanced color palette, specifically for the color-blind palette, since we wanted the data in the bar chart to be usable by all. 
 
 **Primary GitHub Repository Link**: 
 

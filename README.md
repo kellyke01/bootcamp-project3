@@ -24,9 +24,11 @@ With the next presidential election coming up we came upon some inspiration. We 
 **Dataset Resources**:
 
 https://www.kaggle.com/code/roydatascience/us-election-results-2020/input?select=president_county.csv
+
 president_county_candidate.csv
 
 https://www.kaggle.com/datasets/unanimad/us-election-2020
+
 countyRegVoters.csv
 
 Our datasets included at least 100 records.

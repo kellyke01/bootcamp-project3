@@ -1,4 +1,5 @@
 **Milestone Project 3**
+
 Star Members:
 Cam Wilson 
 Jai’lyn Jones
@@ -7,10 +8,13 @@ Kyndall Kelly
 Kristina Swanson
 
 **THEME:**
-**Central Question: Where are the voters?**
+
+**Central Question: Where are the voters?**:
+
 With the next presidential election coming up we came upon some inspiration. We were reminded of the political climate of the 2020 presidential election. We wanted to see how many people were registered to vote in North Carolina. With a statewide focus, looking into all 100 counties in the state of North Carolina registered to vote, we see not only the percentage of votes each candidate received, but also the percentage of registered voters who participated in 2020. We want to see how many registered voters are in each county and what political party is that county affiliated with for the past presidential election. There will be a table showing not just to the two primary candidates, but all other possible candidates for the 2020 election.
 
 **Pillars of Focus**:
+
 Number of registered voters in each county of North Carolina
 Percentage of registered voters in each county who participated 
 Breakdown of the major political parties in the 2020 election
